@@ -1,0 +1,13 @@
+body {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background: linear-gradient(to top right, red, yellow, green, blue, violet);
+}
+#class {
+    width: 100%;
+    height: 500px;
+    border: none;
+
+}
+
